@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4deadef0-8f91-4367-b68a-84fc83284cca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/085b2e6e-d207-4f0c-8664-6865f0b776cd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/085b2e6e-d207-4f0c-8664-6865f0b776cd/storage_v2/_src_/database/STORAGEDB.GazBCg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/085b2e6e-d207-4f0c-8664-6865f0b776cd/storage_v2/_src_/database/STORAGEDB.GazBCg/schema/NEW_SCHEMA.QMk85Q.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/mianschema.ql13tA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_temp_1.zkWuFg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_toast.33HYYw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_toast_temp_1.5ixBaA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/pg_temp_1.zkWuFg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/pg_toast.33HYYw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/pg_toast_temp_1.5ixBaA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1507bf8c-4086-4779-9193-fe4c87817174/storage_v2/_src_/database/storagedb.OZypZA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4d391009-dd35-4f5d-a8de-364389ddc70d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StorageApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/StorageApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/configuration/HibernateSessionFactoryUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/dao/DocArrivalHeadDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/dao/DocProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/dao/DocSaleHeadDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/dao/StorageDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/DocArrivalHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/DocMovingHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/DocProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/DocSaleHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/dto/DocArrivalProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/dto/DocInputDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/dto/DocMoveDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/dto/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/entity/dto/ProductLeftDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/AddDocArrivalHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/AddDocMoveHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/AddDocSaleHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/AddProductHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/AddStorageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/GetAllProductsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/HandlerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/handlers/MainHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/json/JsonConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/service/DocService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maximenko/service/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/StorageApp-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/StorageApp.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/StorageApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/configuration/HibernateSessionFactoryUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/dao/DocArrivalHeadDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/dao/DocProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/dao/DocSaleHeadDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/dao/ProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/dao/StorageDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/DocArrivalHead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/DocMovingHead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/DocProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/DocSaleHead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/Storage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/dto/DocArrivalProductDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/dto/DocInputDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/dto/DocMoveDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/dto/ProductDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/entity/dto/ProductLeftDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/handlers/AddDocArrivalHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/handlers/AddDocMoveHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/handlers/AddDocSaleHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/handlers/AddProductHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/handlers/GetAllProductsHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/handlers/HandlerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/handlers/MainHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/json/JsonConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/service/DocService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/maximenko/service/StorageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="information_schema: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="pg_catalog: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="pg_toast: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="pg_toast_temp_1: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storagedb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storagedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rAPA9LWBNPBbHpwMwcK2Np99o3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2&#10;h2.unified&#10;postgresql" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Slegonca\IdeaProjects\Interview\StorageApp" />
+      <recent name="C:\Users\Slegonca\IdeaProjects\Interview\StorageApp\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StorageApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.maximenko.StorageApplication" />
+      <module name="StorageApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.maximenko.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StorageApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38f46bf2" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38f46bf2" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@1c05945" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38f46bf2" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@58ee7a99" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38f46bf2" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@732ffba8" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38f46bf2" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@dd023da" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4deadef0-8f91-4367-b68a-84fc83284cca" name="Default Changelist" comment="" />
+      <created>1618415774390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618415774390</updated>
+      <workItem from="1618415777606" duration="8955000" />
+      <workItem from="1618425557342" duration="679000" />
+      <workItem from="1618456722022" duration="2003000" />
+      <workItem from="1618501062323" duration="10366000" />
+      <workItem from="1618544421279" duration="741000" />
+      <workItem from="1618589120743" duration="6834000" />
+      <workItem from="1618641012610" duration="34809000" />
+      <workItem from="1618721170996" duration="41838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

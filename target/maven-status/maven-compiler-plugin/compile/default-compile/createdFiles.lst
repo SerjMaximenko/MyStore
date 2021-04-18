@@ -1,0 +1,9 @@
+ru\maximenko\entity\Product.class
+ru\maximenko\configuration\HibernateSessionFactoryUtil.class
+ru\maximenko\handlers\ShowHandler.class
+ru\maximenko\handlers\MainHandler.class
+ru\maximenko\json\JsonConverter.class
+ru\maximenko\ProductRequest.class
+ru\maximenko\configuration\DefaultConfiguration.class
+ru\maximenko\handlers\Config.class
+ru\maximenko\StorageApplication.class

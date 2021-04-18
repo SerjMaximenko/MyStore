@@ -1,0 +1,11 @@
+INSERT INTO products (article, name) VALUES ('1001','Product 1')
+INSERT INTO products (article, name) VALUES ('1002','Product 2')
+INSERT INTO products (article, name) VALUES ('1003','Product 3')
+INSERT INTO products (article, name) VALUES ('1004','Product 4')
+INSERT INTO products (article, name) VALUES ('1005','Product 5')
+
+INSERT INTO storages (name) VALUES ('Storage 1')
+INSERT INTO storages (name) VALUES ('Storage 2')
+INSERT INTO storages (name) VALUES ('Storage 3')
+INSERT INTO storages (name) VALUES ('Storage 4')
+INSERT INTO storages (name) VALUES ('Storage 5')
