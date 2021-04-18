@@ -76,7 +76,7 @@
     "docArrivalProducts": [
         {
             "article": "1001", 
-            "quantity": 10,
+            "quantity": 30,
             "price": 100.23
         },
         {
